@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Ton Truck",
+    "imageString": "car_1",
+    "imageInt": null,
+    "year": 1997,
+    "engineVolume": 4.7,
+    "createdAt": "2023-03-27T00:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "AMC Gremlin X",
+    "imageString": "car_2",
+    "imageInt": null,
+    "year": 1974,
+    "engineVolume": 7.9,
+    "createdAt": "2023-03-27T00:00:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Aston Martin DBR9 LMS",
+    "imageString": "car_3",
+    "imageInt": null,
+    "year": 2008,
+    "engineVolume": 6.0,
+    "createdAt": "2023-03-27T00:00:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Audi TT",
+    "imageString": "car_4",
+    "imageInt": null,
+    "year": 2004,
+    "engineVolume": 2.0,
+    "createdAt": "2023-03-27T00:00:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Bella Machina Model B",
+    "imageString": "car_5",
+    "imageInt": null,
+    "year": 1951,
+    "engineVolume": 2.5,
+    "createdAt": "2023-03-27T00:00:00Z"
+  },
+  {
+    "id": 6,
+    "name": "Bentley Continental GT",
+    "imageString": "car_6",
+    "imageInt": null,
+    "year": 2009,
+    "engineVolume": 4.0,
+    "createdAt": "2023-03-27T00:00:00Z"
+  },
+  {
+    "id": 7,
+    "name": "BMW 3 Series E90",
+    "imageString": "car_7",
+    "imageInt": null,
+    "year": 2008,
+    "engineVolume": 3.0,
+    "createdAt": "2023-03-27T00:00:00Z"
+  },
+  {
+    "id": 8,
+    "name": "Boxomatic Coach",
+    "imageString": "car_8",
+    "imageInt": null,
+    "year": 1995,
+    "engineVolume": 8.0,
+    "createdAt": "2023-03-27T00:00:00Z"
+  },
+  {
+    "id": 9,
+    "name": "Cadillac DeVille",
+    "imageString": "car_9",
+    "imageInt": null,
+    "year": 1975,
+    "engineVolume": 7.0,
+    "createdAt": "2023-03-27T00:00:00Z"
+  },
+  {
+    "id": 10,
+    "name": "Chevrolet Corvette C6.R",
+    "imageString": "car_10",
+    "imageInt": null,
+    "year": 2009,
+    "engineVolume": 6.9,
+    "createdAt": "2023-03-27T00:00:00Z"
+  }
+]
